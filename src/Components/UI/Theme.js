@@ -31,6 +31,13 @@ const theme = createTheme({
       color: `${arcBlue}`,
       lineHeight: 1.5
     },
+    h3:{
+        fontFamily: 'Pacifico',
+        fontWeight: 400,
+        textTransform: 'none',  //not all to uppercase
+        fontSize: '1.8rem',
+        color: `${arcBlue}`,
+    },
     h4:{
       fontFamily: 'Raleway',
       fontWeight: 550,
